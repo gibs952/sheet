@@ -1,8 +1,8 @@
 package main
 
-import "github.com/gibs952/menghitung.git"
+import "github.com/gibs952/sheet.git"
 
 
 func main(){
-	menghitung.Ngitung()
+	sheet.NewService()
 }
